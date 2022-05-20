@@ -5,5 +5,6 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | RouterSpace | 12-05-2022 | Linux | 7/10 | Easy | Easy | No |
 | Catch | 12-05-2022 | Linux | 10/10 | Medium-Hard | Medium | No |
-| Late | 19-05-2022 | Linux | 10/10 | Easy-Medium | Easy | No |
+| Late | 19-05-2022 | Linux | 8/10 | Easy-Medium | Easy | No |
+| Meta | 20-05-2022 | Linux | 8/10 | Medium | Easy | No |
 
