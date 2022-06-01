@@ -12,4 +12,4 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | Noter | 31-05-2022 | Linux | 6/10 | Medium | Medium | No |
 | Validation | 31-05-2022 | Linux | 8/10 | Easy | Easy | Yes |
 | Backdoor | 31-05-2022 | Linux | 8/10 | Easy | Easy | Yes |
-
+| Return | 01-06-2022 | Windows | 8/10 | Easy | Easy | Yes |
