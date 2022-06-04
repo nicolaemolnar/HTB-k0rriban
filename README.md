@@ -18,3 +18,4 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | SteamCloud | 02-06-2022 | Linux | 9/10 | Medium | Easy | Yes |
 | NodeBlog | 03-06-2022 | Linux | 8/10 | Easy | Very-Easy | Yes |
 | Nunchucks | 04-06-2022 | Linux | 9/10 | Easy | Easy | Yes |
+| GoodGames | 04-06-2022 | Linux | 10/10 | Medium | Easy | Yes |
