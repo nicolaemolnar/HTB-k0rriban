@@ -16,4 +16,5 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | Horizontall | 01-06-2022 | Linux | 9/10 | Easy | Easy | Yes |
 | Love | 02-06-2022 | Windows | 8/10 | Easy-Medium | Easy | Yes |
 | SteamCloud | 02-06-2022 | Linux | 9/10 | Medium | Easy | Yes |
-| NodeBlog | 03-06-2022 | Linx | 8/10 | Easy | Very-Easy | Yes |
+| NodeBlog | 03-06-2022 | Linux | 8/10 | Easy | Very-Easy | Yes |
+| Nunchucks | 04-06-2022 | Linux | 9/10 | Easy | Easy | Yes |
