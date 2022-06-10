@@ -23,3 +23,4 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | Toolbox | 05-06-2022 | Windows | 7/10 | Medium-Hard | Easy | Yes |
 | Antique | 06-06-2022 | Linux | 9/10 | Easy | Easy | Yes |
 | Shocker | 06-06-2022 | Linux | 8/10 | Easy | Very-Easy | Yes |
+| Secret | 10-06-2022 | Linux | 7/10 | Easy | Easy | Yes |
