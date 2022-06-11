@@ -26,3 +26,4 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | Secret | 10-06-2022 | Linux | 7/10 | Easy | Easy | Yes |
 | Haystack | 10-06-2022 | Linux | 5/10 | Easy | Easy | Yes |
 | Traverxec | 11-06-2022 | Linux | 8/10 | Medium | Easy | Yes |
+| Tabby | 11-06-2022 | Linux | 9/10 | Easy | Easy-Medium | Yes |
