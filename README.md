@@ -1,4 +1,9 @@
 # HTB Repository by k0rriban
+## Profile
+- HTB: https://app.hackthebox.com/profile/234884
+- Github: https://github.com/nicolaemolnar/
+
+## Writeups
 This repository contains my personal writeups for www.hackthebox.com retired machines. These writeups are reports of my work while performing pentests to the machines, not tutorials about hacking them, however, all the reports have a `summary` section if you want to take fast hints about the pwn process.
 
 | Machine name | Date | OS | Personal Rating | User difficulty | System difficulty | Retired |
@@ -28,3 +33,4 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | Traverxec | 11-06-2022 | Linux | 8/10 | Medium | Easy | Yes |
 | Tabby | 11-06-2022 | Linux | 9/10 | Easy | Easy-Medium | Yes |
 | Blunder | 13-06-2022 | Linux | 9/10 | Medium | Easy | Yes |
+| Sense | 13-06-2022 | FreeBSD | 5/10 | - | Easy | Yes |
