@@ -34,3 +34,4 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | Tabby | 11-06-2022 | Linux | 9/10 | Easy | Easy-Medium | Yes |
 | Blunder | 13-06-2022 | Linux | 9/10 | Medium | Easy | Yes |
 | Sense | 13-06-2022 | FreeBSD | 5/10 | - | Easy | Yes |
+| SwagShop | 14-06-2022 | Linux | 7/10 | Medium | Very-Easy | Yes |
