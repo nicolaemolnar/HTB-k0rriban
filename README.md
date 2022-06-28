@@ -40,3 +40,4 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 | ServMon | 17-06-2022 | Windows | 6/10 | Very-Easy | Easy | Yes |
 | Trick | 19-06-2022 | Linux | 6/10 | Medium | Easy | No |
 | Buff | 20-06-2022 | Windows | 8/10 | Very-Easy | Easy | Yes |
+| Admirer | 28-06-2022 | Linux | 7/10 | Easy-Medium | Easy | Yes |
